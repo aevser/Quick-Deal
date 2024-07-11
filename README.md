@@ -17,6 +17,7 @@
 Для запуска проекта:
 
 <li>Клонировать репозиторий</li>
+<li>Создать файл .env и скопировать в него все из .env.example</li>
 <li>Просписать внутри проекта: database/database.sqlite</li>
 <li>Выполнить миграции: php artisan migrate</li>
 <li>Делать запрос по маршруту: http://127.0.0.1:8000/api/tasks, используя методы: GET, POST, PATCH, DELETE</li>
