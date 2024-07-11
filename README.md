@@ -10,9 +10,6 @@
 <li>Удаление задачи</li>
 <li>Валидация на создание и обновления самой задачи</li>
 
-![Снимок экрана 2024-07-11 в 15.16.08.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fc_%2Fk1sglf3x0ks38qg_v1pcqnxr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_7373Jl%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-07-11%20%D0%B2%2015.16.08.png)
-![Снимок экрана 2024-07-11 в 15.18.36.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fc_%2Fk1sglf3x0ks38qg_v1pcqnxr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_YxNoWF%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-07-11%20%D0%B2%2015.18.36.png)
-
 Фильтрация осуществляется путем изменения даты задачи или статуса.
 
 Для сохранения записей в БД использовалась база SQLite. 
